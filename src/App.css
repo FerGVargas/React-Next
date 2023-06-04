@@ -1,0 +1,9 @@
+button{
+    background: #000;
+}
+
+#titulo-home{
+    font-size: 80px;
+    text-align: center;
+    padding: 10px;
+}
